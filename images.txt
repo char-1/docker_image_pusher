@@ -1,5 +1,7 @@
 #支持私库
 --platform=linux/arm64 arm64v8/openjdk:8u191-jdk-alpine3.9
 --platform=linux/arm64 arm64v8/nginx:1.27.2
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
