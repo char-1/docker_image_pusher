@@ -4,5 +4,6 @@
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:alpine
 drone/drone:latest
+drone-runner-docker:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
