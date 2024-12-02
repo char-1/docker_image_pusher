@@ -1,11 +1,13 @@
 #支持私库
---platform=linux/arm64 arm64v8/openjdk:8u191-jdk-alpine3.9
---platform=linux/arm64 arm64v8/nginx:1.27.2
-gitlab/gitlab-ce:latest
-gitlab/gitlab-runner:alpine
-drone/drone:latest
-drone/drone-runner-docker:latest
-jpomdocker/jpom:latest
-node:14.8.0
+#--platform=linux/arm64 arm64v8/openjdk:8u191-jdk-alpine3.9
+#--platform=linux/arm64 arm64v8/nginx:1.27.2
+#gitlab/gitlab-ce:latest
+#gitlab/gitlab-runner:alpine
+#drone/drone:latest
+#drone/drone-runner-docker:latest
+#jpomdocker/jpom:latest
+#node:14.8.0
+maven:3.9.5-openjdk-17-slim
+maven:3.9.5-openjdk-8-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
