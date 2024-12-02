@@ -7,8 +7,9 @@
 #drone/drone-runner-docker:latest
 #jpomdocker/jpom:latest
 #node:14.8.0
-node:20.0.0
+#node:20.0.0
 #maven:3.9.5-openjdk-17-slim
 #maven:3.9.5-openjdk-8-slim
+nginx:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
