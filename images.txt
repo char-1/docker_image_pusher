@@ -7,5 +7,6 @@ drone/drone:latest
 drone/drone-runner-docker:latest
 jpomdocker/jpom:latest
 gitlab/gitlab-ce-zh:latest
+node:14.8.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
