@@ -11,6 +11,7 @@
 #maven:3.9.5-openjdk-17-slim
 #maven:3.9.5-openjdk-8-slim
 #nginx:latest
-maven:3.8.6-jdk-8
+#maven:3.8.6-jdk-8
+sonatype/nexus3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
