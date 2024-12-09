@@ -15,6 +15,7 @@
 #sonatype/nexus3
 #openjdk:8u242-slim
 #docker:latest
-docker:dind
+#docker:dind
+swr.cn-south-1.myhuaweicloud.com/opengauss/x86_64/opengauss:6.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
