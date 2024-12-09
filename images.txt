@@ -16,6 +16,6 @@
 #openjdk:8u242-slim
 #docker:latest
 #docker:dind
-swr.cn-south-1.myhuaweicloud.com/opengauss/x86_64/opengauss:6.0.0
+swr.cn-south-1.myhuaweicloud.com/opengauss/x86_64/opengauss:5.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
