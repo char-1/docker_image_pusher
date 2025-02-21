@@ -26,7 +26,8 @@
 #ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
 #ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
 #ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
-powerjob/powerjob-mysql:latest
-powerjob/powerjob-server:latest
+#powerjob/powerjob-mysql:latest
+#powerjob/powerjob-server:latest
+openjdk:8
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
