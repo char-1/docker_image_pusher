@@ -29,6 +29,8 @@
 #powerjob/powerjob-mysql:latest
 #powerjob/powerjob-server:latest
 #openjdk:8
-eosphorosai/dbgpt:latest
+#eosphorosai/dbgpt:latest
+docmost/docmost:latest
+redis:7.2-alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
