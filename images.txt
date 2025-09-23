@@ -62,10 +62,13 @@
 #multiarch/qemu-user-static
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-wechatopenai/weknora-app:latest
-minio/minio:latest
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-docreader:latest
-jaegertracing/all-in-one:latest
-paradedb/paradedb:latest
-redis:7.0-alpine
+#wechatopenai/weknora-app:latest
+#minio/minio:latest
+#wechatopenai/weknora-ui:latest
+#wechatopenai/weknora-docreader:latest
+#jaegertracing/all-in-one:latest
+#paradedb/paradedb:latest
+#redis:7.0-alpine
+bitnami/mariadb:10.6
+bitnami/redis:6.2
+easysoft/zentao
