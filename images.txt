@@ -69,6 +69,11 @@
 #jaegertracing/all-in-one:latest
 #paradedb/paradedb:latest
 #redis:7.0-alpine
-bitnami/mariadb:10.6
-bitnami/redis:6.2
-easysoft/zentao
+#bitnami/mariadb:10.6
+#bitnami/redis:6.2
+#easysoft/zentao
+#penpot
+penpotapp/backend:latest
+penpotapp/frontend:latest
+penpotapp/exporter:latest
+nginx:alpine
