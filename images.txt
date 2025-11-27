@@ -73,7 +73,8 @@
 #bitnami/redis:6.2
 #easysoft/zentao
 #penpot
-penpotapp/backend:latest
-penpotapp/frontend:latest
-penpotapp/exporter:latest
-nginx:alpine
+#penpotapp/backend:latest
+#penpotapp/frontend:latest
+#penpotapp/exporter:latest
+#nginx:alpine
+openresty/openresty:latest
