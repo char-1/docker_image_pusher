@@ -77,4 +77,5 @@
 #penpotapp/frontend:latest
 #penpotapp/exporter:latest
 #nginx:alpine
-openresty/openresty:latest
+#openresty/openresty:latest
+enmotech/opengauss:latest
