@@ -78,4 +78,5 @@
 #penpotapp/exporter:latest
 #nginx:alpine
 #openresty/openresty:latest
-enmotech/opengauss:latest
+#enmotech/opengauss:latest
+postgres:15.6
