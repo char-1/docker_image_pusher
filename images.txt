@@ -79,4 +79,5 @@
 #nginx:alpine
 #openresty/openresty:latest
 #enmotech/opengauss:latest
-postgres:15.6
+#postgres:15.6
+rustfs/rustfs:1.0.0-alpha.78
