@@ -82,4 +82,5 @@
 #postgres:15.6
 #rustfs/rustfs:1.0.0-alpha.78
 #rustfs/rustfs:1.0.0-alpha.63
-rustfs/rustfs:1.0.0-alpha.69
+#rustfs/rustfs:1.0.0-alpha.69
+nacos/nacos-server:v3.1.1
