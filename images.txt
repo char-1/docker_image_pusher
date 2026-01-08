@@ -85,4 +85,5 @@
 #rustfs/rustfs:1.0.0-alpha.69
 #nacos/nacos-server:v3.1.1
 #apache/kafka:3.7.0
-provectuslabs/kafka-ui:latest
+#provectuslabs/kafka-ui:latest
+redis:7.2
