@@ -88,4 +88,4 @@
 #provectuslabs/kafka-ui:latest
 #redis:7.2
 #tonistiigi/binfmt
-openjdk:17-jdk-slim
+eclipse-temurin:17-jdk-alpine
