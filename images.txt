@@ -89,4 +89,5 @@
 #redis:7.2
 #tonistiigi/binfmt
 #eclipse-temurin:17-jdk-alpine
-node:20-slim
+#node:20-slim
+node:22-slim
