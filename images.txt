@@ -92,4 +92,5 @@
 #node:20-slim
 #node:22-slim
 #nginx:1.31.3
-arm64v8/nginx:1.31.3
+#arm64v8/nginx:1.31.3
+--platform=linux/arm64 arm64v8/nginx:1.31.3
