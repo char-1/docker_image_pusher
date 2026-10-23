@@ -95,4 +95,11 @@
 #arm64v8/nginx:1.31.3
 #--platform=linux/arm64 arm64v8/nginx:1.31.3
 #docker.n8n.io/n8nio/n8n:latest
-pgvector/pgvector:pg15
+#pgvector/pgvector:pg15
+busybox:latest
+langgenius/dify-api:1.17.1
+langgenius/dify-web:1.17.1
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-plugin-daemon:0.6.10-local
+langgenius/dify-agent-backend:1.17.1
+ubuntu/squid:latest
